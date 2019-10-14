@@ -1,0 +1,14 @@
+# Folder used by node-sass and post-css
+.tmp/
+
+# Node and NPM
+node_modules/
+npm-debug.log
+
+# Editor files
+.sublime-*
+.idea/
+.vscode/
+
+# Other
+.DS_Store

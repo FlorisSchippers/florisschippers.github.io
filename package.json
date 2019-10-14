@@ -1,0 +1,23 @@
+{
+  "name": "florisschippers.github.io",
+  "version": "1.0.0",
+  "description": "My GitHub Page, found at: https://florisschippers.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florisschippers/florisschippers.github.io/issues"
+  },
+  "homepage": "https://github.com/florisschippers/florisschippers.github.io#readme",
+  "devDependencies": {
+    "nvs-frontend-module": "^1.0.31"
+  },
+  "prettier": "nvs-frontend-module"
+}
