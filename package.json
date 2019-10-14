@@ -2,10 +2,6 @@
   "name": "florisschippers.github.io",
   "version": "1.0.0",
   "description": "My GitHub Page, found at: https://florisschippers.github.io",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
