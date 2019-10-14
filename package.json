@@ -6,7 +6,11 @@
     "type": "git",
     "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
   },
-  "author": "",
+  "author": {
+    "name": "Floris Schippers",
+    "email": "florisschippers@gmail.com",
+    "url": "https://florisschippers.nl"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/florisschippers/florisschippers.github.io/issues"
