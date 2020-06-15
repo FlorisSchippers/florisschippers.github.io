@@ -1,9 +1,15 @@
 # Folder used by node-sass and post-css
 .tmp/
 
+# Docker
+.docker/
+
+# Docker
+.firebase/
+
 # Node and NPM
 node_modules/
-npm-debug.log
+*.log
 
 # Editor files
 .sublime-*

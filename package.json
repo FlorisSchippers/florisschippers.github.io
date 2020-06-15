@@ -1,23 +1,29 @@
 {
   "name": "florisschippers.github.io",
   "version": "1.0.0",
-  "description": "My GitHub Page, found at: https://florisschippers.github.io",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
-  },
+  "description": "Hello world! 👋🏻",
+  "license": "ISC",
   "author": {
     "name": "Floris Schippers",
     "email": "florisschippers@gmail.com",
     "url": "https://florisschippers.nl"
   },
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
+  },
   "bugs": {
     "url": "https://github.com/florisschippers/florisschippers.github.io/issues"
   },
   "homepage": "https://github.com/florisschippers/florisschippers.github.io#readme",
   "devDependencies": {
-    "nvs-frontend-module": "^1.0.31"
+    "nvs-frontend-module": "^2.1.7"
   },
-  "prettier": "nvs-frontend-module"
+  "stylelint": "nvs-frontend-module",
+  "prettier": "nvs-frontend-module",
+  "browserslist": [
+    "last 1 version",
+    "> 2% in my stats",
+    "not dead"
+  ]
 }
