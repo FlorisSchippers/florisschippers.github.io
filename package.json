@@ -1,29 +1,19 @@
 {
-  "name": "florisschippers.github.io",
-  "version": "1.0.0",
-  "description": "Hello world! 👋🏻",
-  "license": "ISC",
-  "author": {
-    "name": "Floris Schippers",
-    "email": "florisschippers@gmail.com",
-    "url": "https://florisschippers.nl"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
-  },
-  "bugs": {
-    "url": "https://github.com/florisschippers/florisschippers.github.io/issues"
-  },
-  "homepage": "https://github.com/florisschippers/florisschippers.github.io#readme",
-  "devDependencies": {
-    "nvs-frontend-module": "^2.1.7"
-  },
-  "stylelint": "nvs-frontend-module",
-  "prettier": "nvs-frontend-module",
-  "browserslist": [
-    "last 1 version",
-    "> 2% in my stats",
-    "not dead"
-  ]
+	"name": "florisschippers.github.io",
+	"version": "1.0.0",
+	"description": "Hello world! 👋🏻",
+	"license": "ISC",
+	"author": {
+		"name": "Floris Schippers",
+		"email": "florisschippers@gmail.com",
+		"url": "https://florisschippers.nl"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/florisschippers/florisschippers.github.io.git"
+	},
+	"bugs": {
+		"url": "https://github.com/florisschippers/florisschippers.github.io/issues"
+	},
+	"homepage": "https://github.com/florisschippers/florisschippers.github.io#readme"
 }
